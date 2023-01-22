@@ -23,7 +23,7 @@ const krish = {
     pronouns: "He" | "Him",
     age: "19",
     askMeAbout: ["app dev", "web dev", "machine learning"],
-    currentFocus: "Learning Jetpack Compose & React",
+    currentFocus: "Learning Jetpack Compose",
     programmerType: "Self-Taught",
 };
 ```

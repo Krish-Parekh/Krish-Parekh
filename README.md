@@ -1,7 +1,6 @@
 <p align="center">
-<img width="55%" src="https://user-images.githubusercontent.com/73629899/197244256-28ff268c-24a3-44ad-bc8e-bd1caf0902ea.svg" />
+<img width="55%" src="https://github.com/Krish-Parekh/Krish-Parekh/assets/73629899/4d66d8b0-9ab7-4f88-99a7-9ee5f0c62fc3" />
 </p>
-
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://krish-parekh-portfolio.netlify.app/" target="_blank"> Krish Parekh ! </a></h1>

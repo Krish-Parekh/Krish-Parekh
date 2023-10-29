@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi, I am <a href="https://krish-parekh-portfolio.netlify.app/" target="_blank"> Krish Parekh ! </a></h1>
+<h1 align="center">Hi 👋, I am <a href="https://krish-parekh-portfolio.netlify.app/" target="_blank"> Krish Parekh ! </a></h1>
 
 <p align="center">
   <a href="https://www.hackerrank.com/krishp4123" target="_blank"><img src="https://img.shields.io/static/v1?label=HackerRank&message=krishp4123&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>

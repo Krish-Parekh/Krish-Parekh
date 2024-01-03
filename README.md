@@ -21,7 +21,7 @@
 ```javascript
 const krish = {
     pronouns: "He" | "Him",
-    age: "20",
+    age: "21",
     askMeAbout: ["app dev", "web dev", "machine learning"],
     currentFocus: "Learning Jetpack Compose",
     programmerType: "Self-Taught",

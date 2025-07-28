@@ -63,10 +63,12 @@ const krish = {
 <h1>📈 Github Stats</h1>
 
 <p align="center">
-<img align="center" style="margin-top:10px"  src="https://github-readme-stats.vercel.app/api?username=krish-parekh&show_icons=true&theme=algolia&locale=en" alt="krish-parekh" />
-<img align="center" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=krish-parekh&theme=algolia" alt="krish-parekh" />
+<img align="left" style="margin-top:10px"  src="https://github-readme-stats.vercel.app/api?username=krish-parekh&show_icons=true&theme=algolia&locale=en" alt="krish-parekh" />
+<img align="right" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=krish-parekh&theme=algolia" alt="krish-parekh" />
 </p>
-
 <p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krish-parekh&label=Profile%20views&color=0e75b6&style=flat" alt="krish-parekh" /> </p>
+<!-- <p>
+  <br></br>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krish-parekh&label=Profile%20views&color=0e75b6&style=flat" alt="krish-parekh" /> </p>
+</p> -->

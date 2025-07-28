@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/krishp4123" target="_blank"><img src="https://img.shields.io/static/v1?label=HackerRank&message=krishp4123&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
-  <a href="https://twitter.com/KrishParekhDev" target="_blank"><img src="https://img.shields.io/static/v1?label=Twitter&message=Krish Parekh&style=flat-square&logo=twitter&color=blue" alt="Twitter logo" /></a>
   <a href="https://leetcode.com/Krish_Parekh/" target="_blank"><img src="https://img.shields.io/static/v1?label=LeetCode&message=Krish_Parekh&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
   <a href="https://hashnode.com/@KrishParekh" target="_blank"><img src="https://img.shields.io/static/v1?label=Hashnode&message=Krish_Parekh&style=flat-square&logo=hashnode&color=blue" alt="LeetCode logo" /></a>
   <a href="mailto:krishparekh303@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=E-Mail&message=krishparekh303@gmail.com&style=flat-square&logo=Mail.Ru&color=blue" alt="E-Mail logo" /></a>
@@ -67,10 +66,7 @@ const krish = {
 <img align="center" style="margin-top:10px"  src="https://github-readme-stats.vercel.app/api?username=krish-parekh&show_icons=true&theme=algolia&locale=en" alt="krish-parekh" />
 <img align="center" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=krish-parekh&theme=algolia" alt="krish-parekh" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krish-parekh&show_icons=true&theme=algolia&locale=en&layout=compact" alt="krish-parekh" />
-</p>
 
 <p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-parekh&label=Profile%20views&color=0e75b6&style=flat" alt="krish-parekh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krish-parekh&label=Profile%20views&color=0e75b6&style=flat" alt="krish-parekh" /> </p>
 </p>

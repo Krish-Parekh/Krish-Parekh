@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/krishp4123" target="_blank"><img src="https://img.shields.io/static/v1?label=HackerRank&message=krishp4123&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
-  <a href="https://leetcode.com/Krish_Parekh/" target="_blank"><img src="https://img.shields.io/static/v1?label=LeetCode&message=Krish_Parekh&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
+  <a href="https://leetcode.com/u/KrishParekhDev/" target="_blank"><img src="https://img.shields.io/static/v1?label=LeetCode&message=Krish_Parekh&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
   <a href="https://hashnode.com/@KrishParekh" target="_blank"><img src="https://img.shields.io/static/v1?label=Hashnode&message=Krish_Parekh&style=flat-square&logo=hashnode&color=blue" alt="LeetCode logo" /></a>
   <a href="mailto:krishparekh303@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=E-Mail&message=krishparekh303@gmail.com&style=flat-square&logo=Mail.Ru&color=blue" alt="E-Mail logo" /></a>
  </p>
@@ -19,9 +19,8 @@
 
 ```javascript
 const krish = {
-    pronouns: "He" | "Him",
     age: "22",
-    askMeAbout: ["app dev", "web dev", "system design"],
+    askMeAbout: ["web dev", "system design", "devops"],
     currentFocus: "Learning Devops",
     programmerType: "Self-Taught",
 };

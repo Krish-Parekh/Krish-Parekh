@@ -66,8 +66,3 @@ const krish = {
 <img align="right" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=krish-parekh&theme=algolia" alt="krish-parekh" />
 </p>
 <p>
-<!-- <p>
-  <br></br>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krish-parekh&label=Profile%20views&color=0e75b6&style=flat" alt="krish-parekh" /> </p>
-</p> -->

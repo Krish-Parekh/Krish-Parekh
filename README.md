@@ -44,7 +44,7 @@ const krish = {
 <td><strong>Backend</strong></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,go,express" alt="Backend Technologies" />
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,go,express,rabbitmq" alt="Backend Technologies" />
   </a>
 </td>
 </tr>
@@ -52,7 +52,7 @@ const krish = {
 <td><strong>Database</strong></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Database Technologies" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,redis" alt="Database Technologies" />
   </a>
 </td>
 </tr>
@@ -60,7 +60,7 @@ const krish = {
 <td><strong>DevOps</strong></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,docker,kubernetes,terraform" alt="DevOps Technologies" />
+    <img src="https://skillicons.dev/icons?i=aws,githubactions,docker,nginx,kubernetes,terraform,ansible,jenkins" alt="DevOps Technologies" />
   </a>
 </td>
 </tr>

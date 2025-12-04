@@ -11,11 +11,13 @@
   <a href="https://leetcode.com/u/KrishParekhDev/" target="_blank"><img src="https://img.shields.io/static/v1?label=LeetCode&message=Krish_Parekh&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
   <a href="https://hashnode.com/@KrishParekh" target="_blank"><img src="https://img.shields.io/static/v1?label=Hashnode&message=Krish_Parekh&style=flat-square&logo=hashnode&color=blue" alt="LeetCode logo" /></a>
   <a href="mailto:krishparekh303@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=E-Mail&message=krishparekh303@gmail.com&style=flat-square&logo=Mail.Ru&color=blue" alt="E-Mail logo" /></a>
- </p>
+  <img src="https://komarev.com/ghpvc/?username=Krish-Parekh&color=blue&style=flat-square" alt="Profile views" />
+</p>
 
 <br />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 
 ```javascript
 const krish = {
@@ -23,46 +25,49 @@ const krish = {
     askMeAbout: ["web dev", "system design", "devops"],
     currentFocus: "Learning Devops",
     programmerType: "Self-Taught",
+    description: "I'm a software engineer who enjoys building things that work well and make a difference. I like turning ideas into practical and easy-to-use solutions that people find helpful."
 };
 ```
 
+<h1>Technologies & Tools</h1>
 
-
-<br />
-<br />
-
-
-<h1>⚙️ Technologies & Tools</h1>
-<p align="center">
-    <img src="https://img.shields.io/badge/-android-7F52F?logo=android&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-firebase-051e34?logo=firebase&logoColor=yellow&style=for-the-badge">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/-C-BC8F8F?logo=c&logoColor=black&style=for-the-badge">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/-postgreSQL-FFFFE0?logo=postgreSQL&logoColor=LightSteelBlue&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-mySQL-FFFFE0?logo=mySQL&logoColor=OrangeRed&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-SQLite-FFFFE0?logo=SQLite&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white">
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-    <img src="https://img.shields.io/badge/-figma-FFFFE0?logo=figma&logoColor=OrangeRed&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-xd-FFEFD5?logo=adobe-xd&logoColor=purple&style=for-the-badge">
-</p>
-
+<table width="100%">
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs" alt="Frontend Technologies" />
+  </a>
+</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,go,express" alt="Backend Technologies" />
+  </a>
+</td>
+</tr>
+<tr>
+<td><strong>Database</strong></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Database Technologies" />
+  </a>
+</td>
+</tr>
+<tr>
+<td><strong>DevOps</strong></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,docker,kubernetes,terraform" alt="DevOps Technologies" />
+  </a>
+</td>
+</tr>
+</table>
 <h1>📈 Github Stats</h1>
 
 <p align="center">
-<img align="left" style="margin-top:10px"  src="https://github-readme-stats.vercel.app/api?username=krish-parekh&show_icons=true&theme=algolia&locale=en" alt="krish-parekh" />
-<img align="right" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=krish-parekh&theme=algolia" alt="krish-parekh" />
+<img align="left" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=krish-parekh&theme=algolia" alt="krish-parekh" />
 </p>
 <p>

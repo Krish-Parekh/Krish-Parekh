@@ -22,7 +22,7 @@
 ```javascript
 const krish = {
     age: "22",
-    askMeAbout: ["web dev", "system design", "devops"],
+    askMeAbout: ["web dev", "backend systems", "devops"],
     currentFocus: "Learning Devops",
     programmerType: "Self-Taught",
     description: "I'm a software engineer who enjoys building things that work well and make a difference. I like turning ideas into practical and easy-to-use solutions that people find helpful."

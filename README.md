@@ -4,9 +4,10 @@
 
 
 
-<h1 align="center">Hi 👋, I am <a href="https://krish-parekh-portfolio.netlify.app/" target="_blank"> Krish Parekh ! </a></h1>
+<h1 align="center">Hi 👋, I am <a href="https://krishparekhdev.com" target="_blank"> Krish Parekh ! </a></h1>
 
 <p align="center">
+  <a href="https://krishparekhdev.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=krishparekhdev.com&style=flat-square&logo=googlechrome&logoColor=white&color=blue" alt="Website" /></a>
   <a href="https://www.hackerrank.com/krishp4123" target="_blank"><img src="https://img.shields.io/static/v1?label=HackerRank&message=krishp4123&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
   <a href="https://leetcode.com/u/KrishParekhDev/" target="_blank"><img src="https://img.shields.io/static/v1?label=LeetCode&message=Krish_Parekh&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
   <a href="https://hashnode.com/@KrishParekh" target="_blank"><img src="https://img.shields.io/static/v1?label=Hashnode&message=Krish_Parekh&style=flat-square&logo=hashnode&color=blue" alt="LeetCode logo" /></a>
